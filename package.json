@@ -1,0 +1,23 @@
+{
+  "name": "@ychsue/learn-how-to-npm",
+  "version": "1.0.0",
+  "description": "This package is used for me to study how to use npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ychsue/learn-how-to-npm.git"
+  },
+  "keywords": [
+    "learn",
+    "npm"
+  ],
+  "author": "Young-Chung Hsue <ychsue1234@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ychsue/learn-how-to-npm/issues"
+  },
+  "homepage": "https://github.com/ychsue/learn-how-to-npm#readme"
+}
